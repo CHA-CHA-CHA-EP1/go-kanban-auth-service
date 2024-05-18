@@ -1,0 +1,14 @@
+env: dev
+
+app:
+  name: kanban-auth
+
+server:
+  port: 8080
+  timeout: 60
+
+redis:
+  host: localhost
+  port: 6380
+  db: 0
+  password: null
