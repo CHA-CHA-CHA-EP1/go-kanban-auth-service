@@ -1,3 +1,5 @@
+github.com/CHA-CHA-CHA-EP1/go-kanban-common-service v0.0.0-20240519072232-26738eb810ac h1:DTd6tp52AdjAT5WqY7/CHAtVoH6mQb0kX7U31/KWE3c=
+github.com/CHA-CHA-CHA-EP1/go-kanban-common-service v0.0.0-20240519072232-26738eb810ac/go.mod h1:eQW5tfghGWojY5/zYl+sskmPELlpm4hNuezI2KsQUzg=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc h1:U9qPSI2PIWSS1VwoXQT9A3Wy9MM3WgvqSxFWenqJduM=
